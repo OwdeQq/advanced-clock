@@ -23,3 +23,4 @@ pico_i2c_lcd.py
 main.py
 
 # 4. RUN main.py SCRIPT
+enjoy the clock :)
